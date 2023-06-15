@@ -11,12 +11,5 @@ Using the Reddit API PRAW, this project scrapes from the subreddit r/scarystorie
 - submissions.csv: the CSV file containing all scraped submissions (Reddit posts)
 
 ### 🌱 Quick Start  
-First download necessary packages using `pip3 install <package>`
-
-```
-pip3 install pandas
-pip3 install praw
-pip3 install csv
-```
-
+Use `pip3 install requirements.txt` to instal neccessary packages.
 Then, run scary_stories.py in its entirety or praw.ipynb block by block to get started
